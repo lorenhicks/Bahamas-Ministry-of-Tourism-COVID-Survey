@@ -1,1 +1,1 @@
-# React Tech Challenge
+# React with react-semantic API
