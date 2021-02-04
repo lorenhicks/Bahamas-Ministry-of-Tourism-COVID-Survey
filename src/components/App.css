@@ -1,0 +1,83 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,600;0,700;0,800;1,300;1,400;1,600;1,700;1,800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100;200;300;400;500;600;700;800;900&display=swap");
+
+.App {
+  padding: 0rem;
+}
+
+.card-style {
+  display: flex;
+  flex: 1;
+}
+
+.bg-style {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0vw;
+  width: 100%;
+}
+
+.subtitle-style {
+  font-family: Roboto Slab;
+  font-weight: 400;
+  color: rgba(255, 255, 255, 0.733);
+  font-size: 0.75rem;
+  text-align: center;
+  margin: 0vw;
+  margin-top: 0vw;
+  margin-bottom: 0vw;
+  letter-spacing: 0.01em;
+  padding: 0;
+}
+
+.input-style {
+  font-family: Roboto Slab;
+  font-weight: 500;
+  color: "black";
+  font-size: 1rem;
+  text-align: left;
+  margin: 1.5vw;
+}
+
+.info-style {
+  font-family: Roboto Slab;
+  font-weight: 500;
+  color: "black";
+  font-size: 1rem;
+  text-align: left;
+  margin: 3vw;
+  margin-top: 0vw;
+}
+
+.title-style {
+  font-family: Roboto Slab;
+  font-weight: 400;
+  color: "white";
+  font-size: 1.1rem;
+  text-align: center;
+  margin-bottom: 0vw;
+  letter-spacing: 0.1em;
+}
+
+.body-style {
+  font-family: Open Sans;
+  color: rgb(85, 76, 76);
+  font-size: 0.9rem;
+  padding: 0.5vw;
+  margin: 0.5vw;
+  margin-top: 0vw;
+  margin-bottom: 0vw;
+}
+
+.centered-label {
+  display: flex;
+  align-self: center;
+}
+
+.icon-style {
+  font-size: 2rem;
+  text-align: center;
+}
+
+/* Authors: Raul La Rosa and Loren Hicks */

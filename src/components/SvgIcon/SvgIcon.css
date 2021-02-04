@@ -1,0 +1,22 @@
+.svg-icon {
+  display: block;
+  text-indent: -9999px;
+  margin: 0;
+  width: 32px;
+  height: 32px;
+  background-size: 32px 32px;
+  cursor: pointer;
+  background-repeat: no-repeat;
+}
+
+/********************
+  ICONS
+********************/
+
+.svg-icon.low-risk {
+  background-image: url("./svg/low-risk/tick.svg");
+}
+
+.svg-icon.high-risk {
+  background-image: url("./svg/high-risk/warning.svg");
+}
