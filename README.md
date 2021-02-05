@@ -1,1 +1,1 @@
-# React with react-semantic API
+# React with Semantic React UI API
